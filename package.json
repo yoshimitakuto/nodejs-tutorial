@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1"
   }
 }
